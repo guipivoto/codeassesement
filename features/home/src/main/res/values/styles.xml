@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="HomeScreenToolbar" parent="@style/Widget.AppCompat.Toolbar">
+        <!-- Icon color -->
+        <item name="colorControlNormal">@android:color/white</item>
+
+        <!-- Background color -->
+        <item name="android:background">@color/md_indigo_500</item>
+
+        <item name="android:elevation">16dp</item>
+        <item name="titleTextAppearance">@style/ToolbarThemeTitleText</item>
+        <item name="titleTextColor">@android:color/white</item>
+    </style>
+
+    <style name="ToolbarThemeTitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>

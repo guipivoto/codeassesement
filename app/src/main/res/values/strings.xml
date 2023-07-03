@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CodeAssessment</string>
+    <string name="home_fragment_label">Home</string>
+    <string name="details_fragment_label">Details</string>
+</resources>

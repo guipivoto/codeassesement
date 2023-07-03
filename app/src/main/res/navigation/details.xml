@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/details_screen_destination_id"
+    app:startDestination="@id/details_fragment">
+
+    <fragment
+        android:id="@+id/details_fragment"
+        android:name="com.pivoto.codeassessment.features.details.DetailsFragment"
+        android:label="@string/details_fragment_label">
+
+        <argument
+            android:name="id"
+            app:argType="integer"
+            android:defaultValue="-1" />
+    </fragment>
+</navigation>

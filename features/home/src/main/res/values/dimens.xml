@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_margin_horizontal">16dp</dimen>
+    <dimen name="title_margin_vertical">4dp</dimen>
+    <dimen name="thumbnail_size">96dp</dimen>
+    <dimen name="photo_title_bottom_margin">24dp</dimen>
+    <dimen name="photo_title_horizontal_padding">16dp</dimen>
+    <dimen name="photo_title_vertical_padding">8dp</dimen>
+    <dimen name="photo_title_background_corner">16dp</dimen>
+</resources>
